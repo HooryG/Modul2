@@ -8,6 +8,7 @@ print(true_q,my_string)
 print(my_string[0])  # Первая вводимая цифра и являеться 1 символом
 print(my_string[-1]) # Вторая вводимая цифра и являеться последним символом
 name = "Вы молодец"
+print(name)
 print(name[0])
 print(name[-1])
 
