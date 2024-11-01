@@ -1,4 +1,4 @@
-my_string = input("Сколько символов в даной строке ".upper().replace("С","К"))
+my_string = input("Сколько символов в даной строке ".upper().replace("С","К")) # немного баловства. и тренировки для запоминания
 namber_of_char = (len("Сколько символов в даной строке "))
 print("Верный ответ: ",namber_of_char)
 my_string = input("ВВЕДИТЕ ВЕРНЫЙ ОТВЕТ: ".lower())
@@ -11,6 +11,8 @@ name = "Вы молодец"
 print(name)
 print(name[0])
 print(name[-1])
+
+
 
 
 
